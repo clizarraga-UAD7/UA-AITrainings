@@ -47,7 +47,7 @@
 
 ## Summary of Expanded Findings
 
-The expanded search identified **40 distinct ML/DL/NN/NLP-focused training programs, certificates, and workshop series** (in addition to the 24 general AI programs from the first search) offered by the University of Arizona in 2024-2025.
+The expanded search identified **65 distinct ML/DL/NN/NLP-focused training programs, certificates, and workshop series** offered by the University of Arizona in 2024-2025.
 
 ### Key ML/DL/NN/NLP Training Categories:
 
