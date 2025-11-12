@@ -1,4 +1,3 @@
-I'll conduct additional targeted searches for Machine Learning, Deep Learning, Neural Networks, and NLP training programs at the University of Arizona.Based on my expanded search for Machine Learning, Deep Learning, Neural Networks, and NLP training programs at the University of Arizona, I have compiled a comprehensive expanded table that includes both the original AI programs and the additional ML/DL/NN/NLP-focused training.
 
 ## Expanded University of Arizona AI/ML/DL/NN/NLP Training Courses and Certificates (2024-2025)
 
