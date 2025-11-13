@@ -4,6 +4,39 @@
 - **Undergraduate courses (< 500):** 137
 - **Graduate courses (≥ 500):** 163
 
+***
+### Total AI/ML-Related Courses: 300
+
+* Undergraduate Programs (Catalog Number < 500): 137 courses
+* Graduate Programs (Catalog Number ≥ 500): 163 courses
+
+### Undergraduate Programs Highlights
+The undergraduate section includes foundational courses such as:
+
+* APCV 371: Introduction to Artificial Intelligence in Cyber
+* APCV 471: Artificial Intelligence
+* APCV 483: Machine Learning in Cyber
+* APCV 485: Deep Learning in Cyber
+* CSC 380: Principles of Data Science
+* CSC 480: Principles of Machine Learning
+* DATA 201: Foundations of Data Science
+* ISTA 321: Data Mining and Discovery
+* ISTA 450: Artificial Intelligence
+
+### Graduate Programs Highlights
+The graduate section includes advanced courses such as:
+
+* ASTR 502: Data Mining and Machine Learning in Astronomy
+* INFO 521: Machine Learning
+* INFO 550: Artificial Intelligence
+* INFO 555: Applied Natural Language Processing
+* INFO 557: Neural Networks
+* MIS 545: Data Mining and Machine Learning
+* MIS 548: Introduction to Deep Learning
+* CSC 580: Principles of Machine Learning
+* CSC 585: Algorithms for Natural Language Processing
+
+***
 ## Undergraduate Programs (Catalog Number < 500)
 
 | # | Course ID | Subject Code | Catalog Number | Offering Unit | Course Title | Max Units | Course URL |
