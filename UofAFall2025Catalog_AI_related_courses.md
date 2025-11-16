@@ -348,3 +348,513 @@ The graduate section includes advanced courses such as:
 | 161 | 043120 | SOC | 501 | Sociology, Sch of | Computational Social Science: Introduction to Methods, Approaches, and Theories | 3 | https://catalog.arizona.edu/courses/0431201 |
 | 162 | 021130 | STAT | 571A | Mathematics | Advanced Statistical Regression Analysis | 3 | https://catalog.arizona.edu/courses/0211301 |
 | 163 | 034294 | STAT | 579 | Geography & Dev, Sch of | Spatial Statistics and Spatial Econometrics | 3 | https://catalog.arizona.edu/courses/0342941 |
+
+****
+
+# Cross-Listed AI/ML Courses - University of Arizona Fall 2025
+
+**Total unique Course IDs with multiple listings:** 39
+**Total course entries (including cross-listings):** 91
+
+- Total cross-listed course groups: 39
+- Course groups with 2 listings: 30
+- Course groups with 3 listings: 5
+- Course groups with 4+ listings: 4
+- Maximum number of cross-listings for a single course: 4
+
+These courses are offered under different Subject Codes but share the same Course ID, 
+indicating they are cross-listed or jointly offered by multiple departments.
+
+## Cross-Listed Courses Detail
+
+### 1. Course ID: 005651
+- **Course Title:** Engineering Analytics and Problem-Solving using Python
+- **Cross-listed as:** BAT 205, BE 205
+- **Offering Unit:** Biosystems Engineering
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0056511
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| BAT | 205 | Biosystems Engineering |
+| BE | 205 | Biosystems Engineering |
+
+### 2. Course ID: 009913
+- **Course Title:** Introduction to Computer Vision
+- **Cross-listed as:** COGS 577, CSC 577
+- **Offering Unit:** Computer Science
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0099131
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| COGS | 577 | Computer Science |
+| CSC | 577 | Computer Science |
+
+### 3. Course ID: 012266
+- **Course Title:** Digital Image Analysis
+- **Cross-listed as:** ECE 532, OPTI 532
+- **Offering Unit:** Electrical & Computer Engr
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0122661
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| ECE | 532 | Electrical & Computer Engr |
+| OPTI | 532 | Electrical & Computer Engr |
+
+### 4. Course ID: 012267
+- **Course Title:** Digital Image Processing
+- **Cross-listed as:** ECE 533, OPTI 533
+- **Offering Unit:** Electrical & Computer Engr
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0122671
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| ECE | 533 | Electrical & Computer Engr |
+| OPTI | 533 | Electrical & Computer Engr |
+
+### 5. Course ID: 013782
+- **Course Title:** Modern English Grammar
+- **Cross-listed as:** ENGL 506, SLAT 506
+- **Offering Unit:** English
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0137821
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| ENGL | 506 | English |
+| SLAT | 506 | English |
+
+### 6. Course ID: 015853
+- **Course Title:** Statistical Techniques in Geography, Regional Development and Planning
+- **Cross-listed as:** GEOG 457, GIST 457, PLG 457
+- **Offering Unit:** Geography & Dev, Sch of
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0158531
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| GEOG | 457 | Geography & Dev, Sch of |
+| GIST | 457 | Geography & Dev, Sch of |
+| PLG | 457 | Geography & Dev, Sch of |
+
+### 7. Course ID: 015938
+- **Course Title:** Statistical Techniques in Geography, Regional Development and Planning
+- **Cross-listed as:** GEOG 557, GIST 557, PLG 557
+- **Offering Unit:** Geography & Dev, Sch of
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0159381
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| GEOG | 557 | Geography & Dev, Sch of |
+| GIST | 557 | Geography & Dev, Sch of |
+| PLG | 557 | Geography & Dev, Sch of |
+
+### 8. Course ID: 017756
+- **Course Title:** Stochastic Methods in Surface Hydrology
+- **Cross-listed as:** CE 655, HWRS 655
+- **Offering Unit:** Hydrology & Atmospheric Sci
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0177561
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| CE | 655 | Hydrology & Atmospheric Sci |
+| HWRS | 655 | Hydrology & Atmospheric Sci |
+
+### 9. Course ID: 019833
+- **Course Title:** Computational Linguistics
+- **Cross-listed as:** CSC 438, LING 438, PSY 438
+- **Offering Unit:** Linguistics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0198331
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| CSC | 438 | Linguistics |
+| LING | 438 | Linguistics |
+| PSY | 438 | Linguistics |
+
+### 10. Course ID: 019834
+- **Course Title:** Statistical Natural Language Processing
+- **Cross-listed as:** CSC 439, DATA 439, ISTA 439, LING 439
+- **Offering Unit:** Linguistics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0198341
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| CSC | 439 | Linguistics |
+| DATA | 439 | Linguistics |
+| ISTA | 439 | Linguistics |
+| LING | 439 | Linguistics |
+
+### 11. Course ID: 019928
+- **Course Title:** Computational Linguistics
+- **Cross-listed as:** CSC 538, LING 538, PSY 538
+- **Offering Unit:** Linguistics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0199281
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| CSC | 538 | Linguistics |
+| LING | 538 | Linguistics |
+| PSY | 538 | Linguistics |
+
+### 12. Course ID: 019929
+- **Course Title:** Statistical Natural Language Processing
+- **Cross-listed as:** CSC 539, DATA 539, INFO 539, LING 539
+- **Offering Unit:** Linguistics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0199291
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| CSC | 539 | Linguistics |
+| DATA | 539 | Linguistics |
+| INFO | 539 | Linguistics |
+| LING | 539 | Linguistics |
+
+### 13. Course ID: 021130
+- **Course Title:** Advanced Statistical Regression Analysis
+- **Cross-listed as:** MATH 571A, STAT 571A
+- **Offering Unit:** Mathematics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0211301
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| MATH | 571A | Mathematics |
+| STAT | 571A | Mathematics |
+
+### 14. Course ID: 026292
+- **Course Title:** Philosophy and Artificial Intelligence
+- **Cross-listed as:** CSC 455, PHIL 455
+- **Offering Unit:** Philosophy
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0262921
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| CSC | 455 | Philosophy |
+| PHIL | 455 | Philosophy |
+
+### 15. Course ID: 026366
+- **Course Title:** Philosophy and Artificial Intelligence
+- **Cross-listed as:** COGS 555, CSC 555, PHIL 555
+- **Offering Unit:** Philosophy
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0263661
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| COGS | 555 | Philosophy |
+| CSC | 555 | Philosophy |
+| PHIL | 555 | Philosophy |
+
+### 16. Course ID: 028723
+- **Course Title:** Computational Cognitive Neuroscience
+- **Cross-listed as:** PHIL 544A, PSY 544A
+- **Offering Unit:** Psychology
+- **Max Units:** 4
+- **Course URL:** https://catalog.arizona.edu/courses/0287231
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| PHIL | 544A | Psychology |
+| PSY | 544A | Psychology |
+
+### 17. Course ID: 034294
+- **Course Title:** Spatial Statistics and Spatial Econometrics
+- **Cross-listed as:** ECON 579, GEOG 579, PLG 579, STAT 579
+- **Offering Unit:** Geography & Dev, Sch of
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0342941
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| ECON | 579 | Geography & Dev, Sch of |
+| GEOG | 579 | Geography & Dev, Sch of |
+| PLG | 579 | Geography & Dev, Sch of |
+| STAT | 579 | Geography & Dev, Sch of |
+
+### 18. Course ID: 036672
+- **Course Title:** Elements of Statistics using Calculus
+- **Cross-listed as:** DATA 361, MATH 361
+- **Offering Unit:** Mathematics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0366721
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| DATA | 361 | Mathematics |
+| MATH | 361 | Mathematics |
+
+### 19. Course ID: 037712
+- **Course Title:** Sex, Gender, and Technology
+- **Cross-listed as:** GLS 260, GWS 260
+- **Offering Unit:** Global Studies, Sch of
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0377121
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| GLS | 260 | Global Studies, Sch of |
+| GWS | 260 | Global Studies, Sch of |
+
+### 20. Course ID: 038968
+- **Course Title:** Computational Social Science
+- **Cross-listed as:** INFO 514, POL 514
+- **Offering Unit:** Information Science
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0389681
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| INFO | 514 | Information Science |
+| POL | 514 | Information Science |
+
+### 21. Course ID: 039145
+- **Course Title:** Computation in Biomedicine
+- **Cross-listed as:** ACBS 467, BE 467
+- **Offering Unit:** Animal & Biomedical Sciences
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0391451
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| ACBS | 467 | Animal & Biomedical Sciences |
+| BE | 467 | Animal & Biomedical Sciences |
+
+### 22. Course ID: 039154
+- **Course Title:** Computation in Biomedicine
+- **Cross-listed as:** ACBS 567, BE 567
+- **Offering Unit:** Animal & Biomedical Sciences
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0391541
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| ACBS | 567 | Animal & Biomedical Sciences |
+| BE | 567 | Animal & Biomedical Sciences |
+
+### 23. Course ID: 039778
+- **Course Title:** Remote Sensing Data and Methods
+- **Cross-listed as:** BAT 485, BE 485
+- **Offering Unit:** Biosystems Engineering
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0397781
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| BAT | 485 | Biosystems Engineering |
+| BE | 485 | Biosystems Engineering |
+
+### 24. Course ID: 039996
+- **Course Title:** Artificial Intelligence for Health and Medicine
+- **Cross-listed as:** BME 578, SIE 578
+- **Offering Unit:** Biomedical Engineering
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0399961
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| BME | 578 | Biomedical Engineering |
+| SIE | 578 | Biomedical Engineering |
+
+### 25. Course ID: 040506
+- **Course Title:** Biosystems Analytics
+- **Cross-listed as:** BAT 434, BE 434
+- **Offering Unit:** Biosystems Engineering
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0405061
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| BAT | 434 | Biosystems Engineering |
+| BE | 434 | Biosystems Engineering |
+
+### 26. Course ID: 040517
+- **Course Title:** Contemporary Literature and Digital Media
+- **Cross-listed as:** ENGL 325, ESOC 325
+- **Offering Unit:** English
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0405171
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| ENGL | 325 | English |
+| ESOC | 325 | English |
+
+### 27. Course ID: 040822
+- **Course Title:** Health Data Science Practice
+- **Cross-listed as:** BIOS 453, EPID 453
+- **Offering Unit:** Epidemiology and Biostatistics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0408221
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| BIOS | 453 | Epidemiology and Biostatistics |
+| EPID | 453 | Epidemiology and Biostatistics |
+
+### 28. Course ID: 040858
+- **Course Title:** Fundamentals of Computing in Biosystems Analytics
+- **Cross-listed as:** BAT 502, BE 502
+- **Offering Unit:** Biosystems Engineering
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0408581
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| BAT | 502 | Biosystems Engineering |
+| BE | 502 | Biosystems Engineering |
+
+### 29. Course ID: 040935
+- **Course Title:** Informatics for Clinical Research
+- **Cross-listed as:** CR 503, CTS 503
+- **Offering Unit:** Medicine, College of, Tucson
+- **Max Units:** 4
+- **Course URL:** https://catalog.arizona.edu/courses/0409351
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| CR | 503 | Medicine, College of, Tucson |
+| CTS | 503 | Medicine, College of, Tucson |
+
+### 30. Course ID: 040948
+- **Course Title:** Healthcare Data Science
+- **Cross-listed as:** BIOS 511, EPID 511
+- **Offering Unit:** Epidemiology and Biostatistics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0409481
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| BIOS | 511 | Epidemiology and Biostatistics |
+| EPID | 511 | Epidemiology and Biostatistics |
+
+### 31. Course ID: 041859
+- **Course Title:** Methods of Applied Mathematics II
+- **Cross-listed as:** APPL 581B, MATH 581B
+- **Offering Unit:** Mathematics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0418591
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| APPL | 581B | Mathematics |
+| MATH | 581B | Mathematics |
+
+### 32. Course ID: 041863
+- **Course Title:** Algorithms of Applied Mathematics II
+- **Cross-listed as:** APPL 589B, MATH 589B
+- **Offering Unit:** Mathematics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0418631
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| APPL | 589B | Mathematics |
+| MATH | 589B | Mathematics |
+
+### 33. Course ID: 041874
+- **Course Title:** Biosphere 2 Science, From Wonder to Discovery
+- **Cross-listed as:** ECOL 388, ENVS 388, GEOS 388, RNR 388
+- **Offering Unit:** Renewable Natural Resources
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0418741
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| ECOL | 388 | Renewable Natural Resources |
+| ENVS | 388 | Renewable Natural Resources |
+| GEOS | 388 | Renewable Natural Resources |
+| RNR | 388 | Renewable Natural Resources |
+
+### 34. Course ID: 042503
+- **Course Title:** Career Exploration in Mathematics and Data Science
+- **Cross-listed as:** DATA 395M, MATH 395M
+- **Offering Unit:** Mathematics
+- **Max Units:** 1
+- **Course URL:** https://catalog.arizona.edu/courses/0425031
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| DATA | 395M | Mathematics |
+| MATH | 395M | Mathematics |
+
+### 35. Course ID: 042596
+- **Course Title:** Physics-informed machine learning and engineering applications
+- **Cross-listed as:** APPL 527, MSE 527
+- **Offering Unit:** Materials Science & Engr
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0425961
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| APPL | 527 | Materials Science & Engr |
+| MSE | 527 | Materials Science & Engr |
+
+### 36. Course ID: 042620
+- **Course Title:** Statistical Methods for Omics Data
+- **Cross-listed as:** BAT 577, BE 577
+- **Offering Unit:** Biosystems Engineering
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0426201
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| BAT | 577 | Biosystems Engineering |
+| BE | 577 | Biosystems Engineering |
+
+### 37. Course ID: 042683
+- **Course Title:** Linear Algebra for Data Science
+- **Cross-listed as:** DATA 412, MATH 412
+- **Offering Unit:** Mathematics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0426831
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| DATA | 412 | Mathematics |
+| MATH | 412 | Mathematics |
+
+### 38. Course ID: 043376
+- **Course Title:** Health Data Science Practice
+- **Cross-listed as:** BIOS 553, EPID 553
+- **Offering Unit:** Epidemiology and Biostatistics
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0433761
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| BIOS | 553 | Epidemiology and Biostatistics |
+| EPID | 553 | Epidemiology and Biostatistics |
+
+### 39. Course ID: 043408
+- **Course Title:** Generative AI for Market Insight and Strategies
+- **Cross-listed as:** BNAN 570, MKTG 570
+- **Offering Unit:** Business Analytics, Sch of
+- **Max Units:** 3
+- **Course URL:** https://catalog.arizona.edu/courses/0434081
+
+| Subject Code | Catalog Number | Offering Unit |
+|--------------|----------------|---------------|
+| BNAN | 570 | Business Analytics, Sch of |
+| MKTG | 570 | Business Analytics, Sch of |
+
+
+## Summary Statistics
+
+- Total cross-listed course groups: 39
+- Course groups with 2 listings: 30
+- Course groups with 3 listings: 5
+- Course groups with 4+ listings: 4
+- Maximum number of cross-listings for a single course: 4
+
+***
