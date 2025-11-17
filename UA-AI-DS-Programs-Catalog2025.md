@@ -1,8 +1,7 @@
 # University of Arizona AI, ML, NLP, and Data Science Programs Catalog
 
-Nov. 16, 2025.
-
 **Data source:** [University of Arizona Program Catalog](https://catalog.arizona.edu/programs?page=1&pq=)
+
 ---
 
 **Analysis Date**: November 2025  
@@ -13,7 +12,6 @@ Nov. 16, 2025.
 
 # Statistical Summary of University of Arizona AI/ML/Data Science Programs
 
----
 
 ## **OVERALL PROGRAM STATISTICS**
 
@@ -190,6 +188,7 @@ Doctoral Programs (9%)                         ██ (2 programs)
 | International Partnership Programs | 2 |
 
 ---
+# UNiversity of Ariozona Programs 
 
 **Analysis Date**: November 2025  
 **Data Source**: University of Arizona Academic Catalog 2024-25  
