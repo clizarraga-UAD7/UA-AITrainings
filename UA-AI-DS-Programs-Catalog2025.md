@@ -188,7 +188,7 @@ Doctoral Programs (9%)                         ██ (2 programs)
 | International Partnership Programs | 2 |
 
 ---
-# UNiversity of Ariozona Programs 
+# University of Arizona Programs 
 
 **Analysis Date**: November 2025  
 **Data Source**: University of Arizona Academic Catalog 2024-25  
