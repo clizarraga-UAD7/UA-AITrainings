@@ -24,7 +24,7 @@
 - Mel & Enid Zuckerman College of Public Health: 1 program
 - Graduate College (Interdisciplinary): 1 program
 
-<p><img src="https://github.com/clizarraga-UAD7/UA-AITrainings/blob/main/figs/ua_programs_summary_barplots.png" width=800</p>
+<p><img src="https://github.com/clizarraga-UAD7/UA-AITrainings/blob/main/figs/ua_programs_summary_barplots.png" width=900</p>
 
 **Date Compiled:** November 2025
 
