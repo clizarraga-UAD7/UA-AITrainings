@@ -2,6 +2,7 @@
 
 **Data source:** [University of Arizona Program Catalog](https://catalog.arizona.edu/programs?page=1&pq=). Full program list: 1049 programs.
 
+***
 ## Catalog Summary
 
 **Total Programs:** 22
@@ -23,7 +24,11 @@
 - Mel & Enid Zuckerman College of Public Health: 1 program
 - Graduate College (Interdisciplinary): 1 program
 
+<p><img src="https://github.com/clizarraga-UAD7/UA-AITrainings/blob/main/figs/ua_programs_summary_barplots.png" width=800</p>
+
 **Date Compiled:** November 2025
+
+***
 
 ## Graduate Certificates
 
