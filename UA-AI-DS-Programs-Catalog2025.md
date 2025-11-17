@@ -2,7 +2,7 @@
 
 Nov. 16, 2025.
 
-**Data source: [University of Arizona Program Catalog](https://catalog.arizona.edu/programs?page=1&pq=)
+**Data source:** [University of Arizona Program Catalog](https://catalog.arizona.edu/programs?page=1&pq=)
 ---
 
 **Analysis Date**: November 2025  
