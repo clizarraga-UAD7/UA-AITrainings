@@ -1,4 +1,5 @@
-UA
+# University of Arizona Programs Catalog.
+
 ## Graduate Certificate
 
 | # | Name of Program | Program Type | College | Brief Summary of Program Description | URL |
@@ -47,13 +48,3 @@ UA
 | 2 | Computer Science and Engineering | Doctor of Philosophy | College of Engineering | Applies computer science theory and software development fundamentals to produce computing-based solutions. Covers algorithms and complexity, computer science theory, multiple programming language concepts, software development, and engineering principles. Research in web and mobile applications, embedded systems, cybersecurity, machine learning, systems, and interdisciplinary areas. | https://catalog.arizona.edu/programs/CSEPHD |
 | 3 | Software Engineering | Doctor of Philosophy | College of Engineering | Firm engineering foundation with discovery-based education using experiential learning approach. Focuses on systematic, disciplined, quantifiable approach to software development, operation, and maintenance. Conducts novel research in web and mobile applications, embedded systems, cybersecurity, machine learning, systems, and interdisciplinary areas. | https://catalog.arizona.edu/programs/SFEPHD |
 
-## Notes
-
-**Program Verification Methodology:** All programs were verified by fetching official catalog pages and confirming program descriptions explicitly contain relevant terms.
-
-**Key Findings:**
-- The Professional Science Master in Data Science and Applied Statistics (DSASPSM) is confirmed and represents the nation's first interdisciplinary PSM in this field
-- First cohort begins Fall 2026
-- Information Science programs span computational arts, intelligence operations, and information systems
-- All Information Science programs include data-related competencies and computational intelligence components
-- The MS in Information explicitly mentions Data Science as a faculty expertise area
