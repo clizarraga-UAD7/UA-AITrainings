@@ -1,5 +1,9 @@
 # University of Arizona AI/ML-Related Courses - Consolidated and Filtered
 
+Nov. 16, 2025
+
+**Data source:** [University of Arizona Course Catalog Fall 2025](https://catalog.arizona.edu/courses?page=1&cq=). Number of total offered courses: 17,807.
+ 
 ## Summary
 
 **Total unique courses (by Course ID):** 235
