@@ -110,3 +110,7 @@ Workshops #3-14 in Table 2 represent additional DataLab series identified from t
 - DSI General: RII-DataScienceInstitute@arizona.edu
 - Workshop materials and recordings: Available on GitHub and YouTube
 
+***
+
+**Compilation:** Carlos Lizárraga (clizarraga@arizona.edu) <br>
+11/16/2025
