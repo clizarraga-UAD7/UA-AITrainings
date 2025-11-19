@@ -3,7 +3,6 @@
 
 ***
 
-<img src="https://github.com/clizarraga-UAD7/UA-AITrainings/blob/main/figs/ua_training_statistics.png" width=1000>
 
 
 **Table 1 (Certificate Programs): 12 programs** **(*)**
@@ -12,7 +11,7 @@
 - 4 formal academic certificates (College of Information Science)
 - 3 program certificates/attendance certificates
 
-**Table 2 (Non-Certificate Training): 42 workshops and training series** **(*)**
+**Table 2 (Non-Certificate Training): 44 workshops and training series** **(*)**
 
 All free of charge
 - Range from 45-minute sessions to multi-week intensive series
