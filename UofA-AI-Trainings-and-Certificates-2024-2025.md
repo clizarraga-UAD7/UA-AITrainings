@@ -3,7 +3,7 @@
 
 ***
 
-<img src="https://github.com/clizarraga-UAD7/UA-AITrainings/blob/main/figs/ua_training_statistics.png" width=900>
+<img src="https://github.com/clizarraga-UAD7/UA-AITrainings/blob/main/figs/ua_training_statistics.png" width=1000>
 
 
 Table 1 (Certificate Programs): 12 programs
