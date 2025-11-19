@@ -3,6 +3,10 @@
 
 ***
 
+<img src="https://github.com/clizarraga-UAD7/UA-AITrainings/blob/main/figs/UA_Programs_by_College_StackedBar_2.png?raw=true" width=800>
+
+<img src="https://github.com/clizarraga-UAD7/UA-AITrainings/blob/main/figs/UA_Programs_by_College_PieChart_2.png?raw=true" width=800>
+
 
 
 **Table 1 (Certificate Programs): 12 programs** **(*)**
