@@ -6,19 +6,20 @@
 <img src="https://github.com/clizarraga-UAD7/UA-AITrainings/blob/main/figs/ua_training_statistics.png" width=1000>
 
 
-Table 1 (Certificate Programs): 12 programs
+Table 1 (Certificate Programs): 12 programs **(*)**
 
 - 5 professional/noncredit certificates (Continuing Education)
  4 formal academic certificates (College of Information Science)
  3 program certificates/attendance certificates
 
-Table 2 (Non-Certificate Training): 42 workshops and training series
+Table 2 (Non-Certificate Training): 42 workshops and training series **(*)**
 
 All free of charge
 - Range from 45-minute sessions to multi-week intensive series
 - Comprehensive coverage of AI/ML/DL/NN/NLP topics
 - Materials available on GitHub and YouTube for self-paced learning
 
+**(*) Information may be incomplete. **
 ***
 
 ## Table 1: Training Programs Offering Certificates
