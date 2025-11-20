@@ -277,4 +277,5 @@ Workshops #3-14 in Table 2 represent additional DataLab series identified from t
 ***
 
 **Compilation:** Carlos Lizárraga (clizarraga@arizona.edu) <br>
-11/16/2025
+Arizona Institute for Artificial Intelligence and Society (AI2S) <br>
+**Updated:** 11/19/2025
