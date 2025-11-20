@@ -7,7 +7,165 @@
 
 <img src="https://github.com/clizarraga-UAD7/UA-AITrainings/blob/main/figs/UA_Programs_by_College_PieChart_2.png?raw=true" width=800>
 
+***
 
+### Key Statistics 
+
+| College/Unit |  Certificate Programs  | Non-Certificate Workshops  | Total  |
+| :-- | :--: | :--: | :--: |
+| Data Science Institute (AI2S) | 0 | 34  | 34 |
+| University Libraries  | 0  | 6  | 6 | 
+| College of Information Science  | 5 | 0  | 5 |
+| Continuing & Professional Education | 5 | 0 | 5 |
+| University-wide | 0 | 2 | 2 |
+| Graduate Center | 0 | 1  | 1 |
+| UCATT | 0 | 1 | 1 |
+| CERCLL | 1 | 0 | 1 |
+| Eller College of Management  | 1 | 0  | 1 |
+| GRAND TOTAL | 12 | 44 | 56 |
+
+ 
+
+**Top 4 Colleges by Total Programs**
+
+- Data Science Institute: 34 programs (0 certificates + 34 workshops) - 60.7% of all offerings 
+- University Libraries: 6 programs (0 certificates + 6 workshops) - 10.7% of all offerings 
+- Continuing & Professional Education: 5 programs (5 certificates + 0 workshops) - 8.9% of all offerings 
+- College of Information Science: 5 programs (5 certificates + 0 workshops) - 8.9% of all offerings 
+
+ 
+
+**Colleges Offering Only Certificates**
+
+- **College of Information Science:** 5 certificates  
+  - Graduate Certificate in Natural Language Processing 
+  - Undergraduate Certificate in Natural Language Processing 
+  - Graduate Certificate in Foundations of Data Science 
+  - Graduate Certificate in NLP (Online) 
+  - 1-Day ML-AI Workshop (with certificate) 
+
+- **Continuing & Professional Education:** 5 certificates 
+  - AI Prompting Certificate Course 
+  - AI Automation and Agentic AI Basics Certificate 
+  - Machine Learning Engineering & AI Bootcamp 
+  - Data Science Bootcamp 
+  - Data Analytics Bootcamp 
+
+- **CERCLL:** 1 certificate  
+  - Spring Webinar Series (attendance certificate) 
+
+- **Eller College of Management:** 1 certificate  
+  - COMEXUS +Talento Chihuahua Eller Generative AI Program 
+
+ 
+
+**Colleges Offering Only Workshops (No Certificates)**
+
+- **Data Science Institute:** 34 workshops  
+  - U of A DataLab workshop series (majority) 
+  - CyVerse workshops 
+  - Collaborative programs with other units 
+
+- **University Libraries:** 6 workshops  
+  - AI Literacy series 
+  - LLM workshops 
+  - Teaching with AI workshops 
+
+- **University-wide:** 2 workshops  
+  - AI at Arizona Town Hall Series 
+  - AI Insights Lunchtime Series 
+
+- **Graduate Center:** 1 workshop  
+  - Transforming Teaching with AI 
+
+- **UCATT:** 1 workshop  
+  - Generative AI for Instructors 
+
+### Summary 
+
+The University of Arizona provides a comprehensive, accessible ecosystem for AI/ML/DL/NN/NLP training: 
+
+- **Quantity:** 56 distinct programs covering all skill levels 
+- **Quality:** Taught by expert faculty and industry professionals 
+- **Accessibility:** 78% free to UA community 
+- **Breadth:** From beginner to advanced, theory to application 
+- **Flexibility:** Multiple formats, durations, and learning modes 
+- **Currency:** Covers latest technologies (GPT, LLMs, RAG, transformers) 
+- **Practicality:** Hands-on with industry-standard tools and real projects 
+
+This positions UA as a leader in AI/ML education and training within higher education. 
+
+#### Key Findings 
+
+- Data Science Institute (AI2S) leads with 34 programs (60.7% of all offerings) - all free workshops, making advanced AI/ML training accessible to the entire university community. 
+- 78% of all programs are free to the U of A community (44 out of 56 total) 
+- Clear specialization: Some units focus on certificates, others on workshops 
+- No overlap: No college offers both certificates and workshops 
+- Topics range from beginner-friendly introductions to advanced specialized applications 
+
+**Multimodal Approach** 
+
+Most programs combine: 
+- Theoretical foundations 
+- Hands-on practice 
+- Industry-standard tools (PyTorch, TensorFlow, scikit-learn, Hugging Face) 
+- Real-world applications and projects 
+
+ 
+**Comprehensive Coverage** 
+
+- Training spans the complete AI/ML spectrum: 
+  - Foundational: Classical machine learning, statistics, Python 
+  - Advanced: Deep learning, neural networks, transformers 
+  - Specialized: NLP, computer vision, geospatial AI, healthcare AI 
+  - Applied: Prompt engineering, LLMs, RAG, agentic AI 
+  - Practical: Containers, reproducibility, data management 
+
+ 
+
+**Strategic distribution**
+
+Clear division of labor across units: 
+- Data Science Institute (AI2S): Primary provider of free technical workshops 
+- College of Information Science: Formal academic credentials 
+- Continuing Education: Professional development certificates and bootcamps 
+- Libraries: AI literacy and teaching applications 
+- University-wide: Policy, ethics, and community building 
+
+ 
+**Certificate Concentration**
+
+12 formal certificate programs are offered across 4 colleges/units 
+
+Certificate programs are evenly split between:  
+- Professional/noncredit certificates (5 from Continuing Ed) 
+- Formal academic certificates (4 from College of Information Science) 
+- Program certificates (3 from other units) 
+
+ 
+**Program Formats** 
+
+- **By Duration** 
+  - Short workshops: 45 minutes - 2 hours (33 programs) 
+  - Multi-week series: 3-10 weeks (15 programs) 
+  - Intensive programs: 4-5 days (2 programs) 
+  - Bootcamps: 9+ months (3 programs) 
+  - Academic certificates: 9 credit hours (4 programs) 
+
+- **By Access** 
+- Free to all UA community: 44 programs (78%) 
+- Fee-based: 12 programs (22%)  
+  - With discounts for veterans, alumni, staff 
+  - Employer reimbursement options available 
+  - Payment plans and financing options 
+
+- **By Format** 
+  - Hybrid (in-person + virtual): 15 programs 
+  - Virtual only: 25 programs 
+  - In-person only: 2 programs 
+  - Self-paced online: 12 programs
+    
+***
 
 **Table 1 (Certificate Programs): 12 programs** **(*)**
 
