@@ -153,11 +153,11 @@ Certificate programs are evenly split between:
   - Academic certificates: 9 credit hours (4 programs) 
 
 - **By Access** 
-- Free to all UA community: 44 programs (78%) 
-- Fee-based: 12 programs (22%)  
-  - With discounts for veterans, alumni, staff 
-  - Employer reimbursement options available 
-  - Payment plans and financing options 
+ - Free to all UA community: 44 programs (78%) 
+ - Fee-based: 12 programs (22%)  
+   - With discounts for veterans, alumni, staff 
+   - Employer reimbursement options available 
+   - Payment plans and financing options 
 
 - **By Format** 
   - Hybrid (in-person + virtual): 15 programs 
